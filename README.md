@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p align="center"><img src="https://profile-counter.glitch.me/{tugberkvaroglu}/count.svg"/></p>
+
 <!--
 **tugberkvaroglu/tugberkvaroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
